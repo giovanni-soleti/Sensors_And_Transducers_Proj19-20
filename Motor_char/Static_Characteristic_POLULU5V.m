@@ -1,7 +1,7 @@
 close all
 clear all
 clc
-load('WorkspaceCompleto.mat')
+load('workspace_char_measure.mat')
 %%
 c_mean = 1e-3.*[c_0 c_280 c_400  c_720 c_1040 c_1390 c_1800 c_2600];
 s_mean = [s_0 s_280 s_400  s_720 s_1040 s_1390 s_1800 s_2600];
