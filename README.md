@@ -1,5 +1,5 @@
 # Sensors_And_Transducers_Proj19-20
-In this repository are submitted the code write for the project of Sensors and Transducers. In particular is shown the code flashed on STM-32F446RE Nucleo Board in which a current sensor and rotary encoder has been used with the aim of monitoring torque and control speed of a DC MOTOR. Moreover, is upload a Matlab code in which is shown how is obtained the static characteristic of the motor.
+
 
 This Repository contain the project of Sensors&Trasducers exam of the Politecnico di Bari, MEng Automation - Robotics.
 1.  In LEM-LTA-Analysis there are the Matlab files used to analyze the current measures, there was a parasitic current (at 50 Hz) 
