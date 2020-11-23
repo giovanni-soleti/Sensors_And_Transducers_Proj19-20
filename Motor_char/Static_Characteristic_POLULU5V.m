@@ -39,5 +39,4 @@ h4 = plot(max_eff_speed,P(max_eff_ind),'*c','Linewidth',2);
 h4.MarkerFaceColor = h4.Color;
 legend([h h1 h2 h3 h4],'Current Linear Regression [A]','Torque Linear Regression [Nm]','Measured Current [A]','Mechanical Power [W]','Max efficiency point');
 
-%% Max efficiency point
 
